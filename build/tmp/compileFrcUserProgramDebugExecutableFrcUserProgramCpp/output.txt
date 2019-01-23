@@ -1,0 +1,22 @@
+See file:///C:/Users/intpi/Desktop/Working/Command-Robot/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling DriveAsTank.cpp successful.
+
+compiling DriveWithJoysticks.cpp successful.
+
+compiling OI.cpp successful.
+
+compiling OnboardCamera.cpp successful.
+In file included from C:\Users\intpi\Desktop\Working\Command-Robot\src\main\include/subsystems/OnboardCamera.h:10:0,
+                 from C:\Users\intpi\Desktop\Working\Command-Robot\src\main\cpp\subsystems\OnboardCamera.cpp:8:
+C:\Users\intpi\Desktop\Working\Command-Robot\build\tmp\expandedArchives\wpilibc-cpp-2019.1.1-headers.zip_bbc5901b0e22ac527e7d642f2ec68009/Commands/Subsystem.h:14:2: warning: #warning is a GCC extension
+ #warning "Commands/Subsystem.h is deprecated; include frc/commands/Subsystem.h instead"
+  ^~~~~~~
+C:\Users\intpi\Desktop\Working\Command-Robot\build\tmp\expandedArchives\wpilibc-cpp-2019.1.1-headers.zip_bbc5901b0e22ac527e7d642f2ec68009/Commands/Subsystem.h:14:2: warning: #warning "Commands/Subsystem.h is deprecated; include frc/commands/Subsystem.h instead" [-Wcpp]
+
+compiling DriveSubsystem.cpp successful.
+
+compiling Robot.cpp successful.
+
+compiling Controller.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/intpi/Desktop/Working/Command-Robot/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
