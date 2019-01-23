@@ -1,0 +1,21 @@
+{
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.import.gradle.enabled": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    ".classpath": true,
+    ".project": true
+  },
+  "wpilib.online": true,
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "git.defaultCloneDirectory": "https://gitlab.com/GarzaP/team231-vs-code-test-code.git",
+  "C_Cpp.configurationWarnings": "Disabled",
+  "files.associations": {
+    "*.inc": "cpp"
+  }
+}
